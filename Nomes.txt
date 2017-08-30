@@ -1,0 +1,34 @@
+### App Definition & Development
+#### Database & Data Warehouse 
+#### Streaming
+#### SCM 
+#### Registry Services 
+#### Application Definition
+
+### Orchestration & Management
+#### Scheduling & Orchestration
+#### Coordination & Service Discovery
+#### Service Management 
+
+### Runtime
+#### Cloud-Native Storage 
+#### Container Runtime
+#### Cloud-Native Network
+
+### Provisioning 
+#### Bare MEtal
+#### Infr. Automation
+#### Host Management / Tooling
+#### CI/CD
+#### CI/CD Security
+
+### Public Cloud
+
+### Platforms 
+#### PaaS / Container Service
+#### Serverless/Event-based
+
+### Observability & Analysis
+#### Monitoring 
+#### Logging 
+#### Tracing 
