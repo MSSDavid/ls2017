@@ -1,4 +1,4 @@
-1# ls2017
+# ls2017
 
 
 | Aula  | nota | link | comentário  |
@@ -15,7 +15,7 @@
 | 10  |  1 |  https://github.com/MSSDavid/ls2017/tree/master/javancss/target |   |
 | 11  |  1 |  https://github.com/MSSDavid/ls2017/wiki/arquitetura |   |
 | 12  |  1 |  https://github.com/MSSDavid/ls2017/wiki/visualvm |   |
-| 13  |  0 |   |   |
+| 13  |  1 |  https://github.com/MSSDavid/ls2017/wiki/sonarcloud |   |
 | 14  |  0 |   |   |
 | 15  |   |  https://github.com/MSSDavid/ls2017/blob/master/README.md |   |
 | 16  |   |   |   |
